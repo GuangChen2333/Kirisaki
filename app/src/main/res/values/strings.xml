@@ -1,0 +1,1 @@
+<resources><string name="app_name">Kirisaki</string><string-array name="xposed_scope"><item>com.oplus.location</item></string-array></resources>
